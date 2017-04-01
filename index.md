@@ -2,6 +2,5 @@
 layout: default
 ---
 
-
-## [](#header-2)[_Hello World!_](archives/Hello World)
+## [_Hello World!_](archives/Hello World)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A_Blank
+title: A-Blank
 ---
 
 

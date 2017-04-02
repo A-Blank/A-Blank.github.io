@@ -1,5 +1,6 @@
 ---
 layout: default
+title: A-Blank
 permalink: Hello_World
 ---
 

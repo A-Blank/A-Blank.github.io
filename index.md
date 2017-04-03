@@ -1,15 +1,16 @@
 ---
 layout: default
-title: A-Blank
+---
+
+
+## [Android SharedElement的使用]({% post_url 2017-04-02-1 %})
+
 ---
 
 ## [Hello World!]({% post_url 2017-04-01-Hello-World %})
 
 ---
 
-## [Android]()
-
----
 
 
 <br />
